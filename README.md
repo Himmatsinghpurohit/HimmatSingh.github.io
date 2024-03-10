@@ -1,1 +1,2 @@
 # HimmatSingh.github.io
+Welcome to my Data Analysis Projects Portfolio! Here, you'll find a collection of my data analysis projects showcasing my expertise in Python, SQL, and data visualization tools. Each project demonstrates my ability to extract actionable insights from diverse datasets and drive informed decision-making. From analyzing 911 police call data to uncovering trends in road accident insights, these projects highlight my passion for leveraging data to solve real-world problems. Explore my portfolio to see how I can contribute to your data-driven initiatives.
